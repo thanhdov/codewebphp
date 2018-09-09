@@ -1,0 +1,8 @@
+input.content {
+    min-height: 0 !important;
+    padding: 6px 12px !important;
+    margin: 0 !important;
+}
+.img-thumbnail{
+    max-width: 80px !important;
+}
